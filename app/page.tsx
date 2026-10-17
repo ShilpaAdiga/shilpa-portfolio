@@ -514,7 +514,7 @@ export default function Home() {
     <footer className="border-t border-gray-800 bg-[#111111] px-8 py-6 text-white">
       <div className="mx-auto flex max-w-6xl flex-col justify-between gap-4 text-sm text-gray-400 sm:flex-row sm:items-center">
         <p>
-          © {new Date().getFullYear()} Shilpa Adiga. Built with Next.js.
+          © 2026 Shilpa Adiga. Built with Next.js.
         </p>
 
         <a
